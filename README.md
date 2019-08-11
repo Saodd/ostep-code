@@ -1,3 +1,13 @@
+# Lewin Fork
+
+## 编译容器创建命令
+
+```shell
+docker run --name ostep-code -v C:/Users/lewin/github/ostep-code:/usr/src/ostep-code -w /usr/src/ostep-code -it gcc bash
+
+```
+
+
 # ostep-code
 Code from various chapters in OSTEP (http://www.ostep.org)
 
